@@ -54,15 +54,6 @@ This project demonstrates the implementation of an offboard control script for d
 
 ---
 
-## 📁 Repository Structure
-```
-|-- docs/                     # Documentation files
-|-- scripts/                  # Python scripts for hover-dehover functionality
-|-- README.md                 # Project overview and instructions
-|-- hover_2metre.py           # Main script for drone control
-```
-
----
 
 ## 📩 Contact
 For questions or collaboration:
